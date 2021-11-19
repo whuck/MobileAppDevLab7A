@@ -1,0 +1,15 @@
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.csproj.AssemblyReference.cache
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.AssemblyInfoInputs.cache
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.AssemblyInfo.cs
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.csproj.CoreCompileInputs.cache
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\bin\Debug\netstandard2.0\HuckFacts.deps.json
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\bin\Debug\netstandard2.0\HuckFacts.dll
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\bin\Debug\netstandard2.0\ref\HuckFacts.dll
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\bin\Debug\netstandard2.0\HuckFacts.pdb
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.dll
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\ref\HuckFacts.dll
+C:\Users\Wilhab\source\repos\HuckFacts\HuckFacts\HuckFacts\HuckFacts\obj\Debug\netstandard2.0\HuckFacts.pdb

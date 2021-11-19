@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4IqEbJV/MGmt30sGg7Aw7Vp3CPCjcTjNNQDG4lDFZCT4iSMEDxxCU2ZgtwRk5Kjankx6L+R7WJoBV8GxBCYww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wilhab\\source\\repos\\HuckFacts\\HuckFacts\\HuckFacts\\HuckFacts.iOS\\HuckFacts.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wilhab\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
